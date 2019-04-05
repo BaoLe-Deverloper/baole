@@ -1,19 +1,4 @@
-/*----------------------------------------------------
-@File: Default Styles
-@Author: SPONDON IT
-Author E-mail: info@spondonit.com
 
-This file contains the styling for the actual theme, this
-is the file you need to edit to change the look of the
-theme.
----------------------------------------------------- */
-/*=====================================================================
-@Template Name: Medicare Medical
-@Author: Naim LAsker
-@Developed By: Naim LAsker
-
-
-=====================================================================*/
 /*----------------------------------------------------*/
 /*font Variables*/
 /*Color Variables*/
@@ -582,7 +567,7 @@ button:focus {
   padding: 20px; }
   .about_right .about_inner {
     border: 1px solid #eeeeee;
-    padding: 90px 20px 125px;
+    padding: 50px 20px 125px;
     color: #fff; }
     .about_right .about_inner h3 {
       font-size: 30px;
@@ -591,9 +576,9 @@ button:focus {
       margin-bottom: 40px;
       text-align: center;
     }
-    .about_right p{
-      font-size: 20px;
-      color: aliceblue;
+    .about_right table{
+      font-size: 24px;
+      color: initial;
     }
   .about_right.overlay:after {
     opacity: .5;
